@@ -1,0 +1,16 @@
+﻿Build started 22.5.2014 14:45:36.
+     1>Project "Z:\data structures\DS_lab10\DS_lab10\DS_lab10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt lab10.c
+         lab10.c
+     1>z:\data structures\ds_lab10\ds_lab10\lab10.c(49): warning C4047: 'function' : 'Tlist *' differs in levels of indirection from 'Tlist'
+     1>z:\data structures\ds_lab10\ds_lab10\lab10.c(49): warning C4024: 'revList' : different types for formal and actual parameter 1
+     1>z:\data structures\ds_lab10\ds_lab10\lab10.c(187): warning C4028: formal parameter 1 different from declaration
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\data structures\DS_lab10\Debug\DS_lab10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\data structures\DS_lab10\Debug\DS_lab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\data structures\DS_lab10\Debug\DS_lab10.lib" /MACHINE:X86 Debug\lab10.obj
+         DS_lab10.vcxproj -> Z:\data structures\DS_lab10\Debug\DS_lab10.exe
+     1>Done Building Project "Z:\data structures\DS_lab10\DS_lab10\DS_lab10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65

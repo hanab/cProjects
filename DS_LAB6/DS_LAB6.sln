@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS_LAB6", "DS_LAB6\DS_LAB6.vcxproj", "{299EBA0A-14B4-48B4-B06D-6345FC309610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299EBA0A-14B4-48B4-B06D-6345FC309610}.Debug|Win32.ActiveCfg = Debug|Win32
+		{299EBA0A-14B4-48B4-B06D-6345FC309610}.Debug|Win32.Build.0 = Debug|Win32
+		{299EBA0A-14B4-48B4-B06D-6345FC309610}.Release|Win32.ActiveCfg = Release|Win32
+		{299EBA0A-14B4-48B4-B06D-6345FC309610}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
